@@ -1,5 +1,5 @@
 ---
-title: Bogging lesson1
+title: Blogging lesson1
 layout: post
 author: yousef.kaler
 permalink: /bogging-lesson1/
