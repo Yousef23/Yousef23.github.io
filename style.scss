@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background-image: ("http://farm7.static.flickr.com/6053/6275742482_6197cf4670.jpg");
+	background: $sandstone;
   font: 18px/1.4 $helvetica;
   color: $sea;
 }
@@ -289,7 +289,7 @@ footer {
 @import "svg-icons";
 
 table, th, td {
-    border: 1px dashed burntorange;
+    border: 1px solid black;
     border-collapse: collapse;
     padding: 15px;
 }
