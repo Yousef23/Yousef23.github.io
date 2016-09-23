@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $iagoon;
+  color: $overcast;
   font-weight: bold;
 
   line-height: 1.7;
@@ -289,7 +289,7 @@ footer {
 @import "svg-icons";
 
 table, th, td {
-    border: 3px solid black;
+    border: 2px solid black;
     border-collapse: collapse;
     padding: 15px;
 }
