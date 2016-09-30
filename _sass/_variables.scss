@@ -29,7 +29,7 @@ $warmgray: #bcbabe;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
-
+$bluewithopacity: rgba(0, 0, 255, 0.7);  
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {
