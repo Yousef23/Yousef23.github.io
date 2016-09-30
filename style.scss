@@ -31,7 +31,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-	background-colour: rgba(0, 0, 255, 0.7);   /* blue with opacity */
+	background-colour: $black;
           
 }
 
@@ -294,6 +294,5 @@ table, th, td {
     border-collapse: collapse;
     padding: 15px;
     background-color: $black;
-	opacity: 0.9
 }
 
