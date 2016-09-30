@@ -45,6 +45,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $blue;
   font-weight: bold;
+  &:hover, &:active {
+	  color: $blue;
+    
+  }
 
   line-height: 1.7;
   margin: 1em 0 15px;
