@@ -31,7 +31,14 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-	{background-colour: rgba(0, 0, 0, 0.6);}
+	background-colour: rgba(0, 0, 0, 0.6);
+}
+
+table, th, td {
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding: 15px;
+    background-color: $black;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -288,10 +295,5 @@ nav {
 @import "highlights";
 @import "svg-icons";
 
-table, th, td {
-    border: 2px solid white;
-    border-collapse: collapse;
-    padding: 15px;
-    background-color: $black;
-}
+
 
