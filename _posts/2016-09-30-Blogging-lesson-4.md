@@ -57,10 +57,10 @@ published: true
   </tr>
 </table>
 
-<iframe src="https://docs.google.com/spreadsheets/d/16-3H9Ul4a5ARp9NmePlKrLy4RIdCyScrPb1Fb1azmC0/pubhtml?widget=true&amp;headers=false"></iframe>
-<iframediv {
+{
     height: 200px;
     width: 50%;
-}
+<iframe src="https://docs.google.com/spreadsheets/d/16-3H9Ul4a5ARp9NmePlKrLy4RIdCyScrPb1Fb1azmC0/pubhtml?widget=true&amp;headers=false"></iframe>
 
+}
 
