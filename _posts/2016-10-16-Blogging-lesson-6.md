@@ -56,5 +56,4 @@ published: true
     <td>Next time I will really concentrate as that will help me think what I need to make a company and it will also make sure that I don’t just quickly finish something else because quickly can turn into half the lesson. This will improve my learning because it will further my knowledge on sheets and also help me concentrate more in general.</td>
   </tr>
 </table>
-
-
+<iframe src="https://docs.google.com/spreadsheets/d/1qfECGgBQP3IEpx0JjuMM4wYXqJg1G4DFdCj18AtK5TQ/pubhtml?widget=true&amp;headers=false"></iframe>
