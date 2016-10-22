@@ -18,7 +18,7 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>A designed blog with different colours, an avatar and two blogs.</td>
   </tr>
   <tr>
@@ -38,22 +38,22 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I learnt how to create tables around each blog. I did this by first listening to the teacher, and then going onto w3 schools and using their tutorials. On the bits I did not quite understand, for example how to widen my table, I found the strategy of using my initiative was effective as I fount a useful tutorial on w3schools. Also, I had finished the table a bit early, so instead of wasting my time doing nothing, I noticed my colours were not great so I looked at some online and came up with better contrasting colours.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>As i have been using github for three weeks now, i got a bit overconfident. I did two or three steps at a time which got a bit confusing and then when something went wrong, I had no idea what it was. I need to work on accuracy and making sure I don't make small mistakes because just missing out one bracket could mess up your whole website.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
-    <td>Next time, I will slow down to ensure i don’t overcomplicate things I won’t click straight to the "commit changes" button without going over what it is I am really doing. </td>
+    <th>Next time, I will slow down to ensure i don’t overcomplicate things I won’t click straight to the "commit changes" button without going over what it is I am really doing. </th>
   </tr>
 </table>
 
