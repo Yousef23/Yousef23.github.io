@@ -8,26 +8,26 @@ published: true
 ---
 <table>
   <tr>
+    <td></td>
+    <td>Making a blog</td>
     <th></th>
-    <th>Making a blog</th>
-    <th></th>
-    <th>09/09/2016</th>
+    <td>09/09/2016</td>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <th>Starting point:</th>
+    <td>Starting point:</td>
     <th></th>
   </tr>
   <tr>
-    <th>Target for this lesson?</th>
+    <td>Target for this lesson?</td>
     <td>To have a Github Pages Static Website</td>
   </tr>
   <tr>
-    <th>Did I reach my target? 
-(add details to "Lesson Review")</th>
+    <td>Did I reach my target? 
+(add details to "Lesson Review")</td>
     <td> Yes</td>
   </tr>
 </table>
