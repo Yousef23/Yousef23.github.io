@@ -18,7 +18,7 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>Google sheet with vlookup, countif and if formula.</td>
   </tr>
   <tr>
@@ -38,19 +38,19 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I learnt that to move boxes you write = wherever you want it then click on the box and to move tables you have to change where you made the table. The main lesson was figuring out what you need for a company. Thinking and researching was effective because we weren't given an exact task and I just had to think and use my initiative on what I should include in my sheets to make as best as possible.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>What limited my learning was I was not imaginative enough and didn't think what a company needs. I need to work on not being just told what to do and actually think what could make it better. I also need to work on staying on task and not trying to quickly improve something we  were doing last lesson as I could fall behind.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time I will really concentrate as that will help me think what I need to make a company and it will also make sure that I don’t just quickly finish something else because quickly can turn into half the lesson. This will improve my learning because it will further my knowledge on sheets and also help me concentrate more in general.</td>
