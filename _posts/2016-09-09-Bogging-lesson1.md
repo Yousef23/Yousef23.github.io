@@ -10,7 +10,7 @@ published: true
   <tr>
     <td></td>
     <td>Making a blog</td>
-    <th></th>
+    <td></td>
     <td>09/09/2016</td>
   </tr>
 </table>
