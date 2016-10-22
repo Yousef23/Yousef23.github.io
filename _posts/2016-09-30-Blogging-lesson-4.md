@@ -18,7 +18,7 @@ published: true
 
 <table>
   <tr>
-    <td>Starting point:</td>
+    <th>Starting point:</th>
     <td>A blog page with 3 blogs and fully designed with tables.</td>
   </tr>
   <tr>
@@ -38,19 +38,19 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I learnt how you can use excel to just highlight tables and the computer will do sums the for you. Although we didn't get on to doing it ourselves in the lesson, I watched the teacher do the steps and what I found effective was unlike previous week I put my hand up twice to try and answer a question he asked and also to ask a question. This helped me learn because instead of just sitting there not knowing what's going on I asked.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>What limited my learning was the distraction going on around me. A couple of children were messing around and because of this it was hard for my attention to fully be on what the teacher was doing. I need to work on just blocking out all nonsense around me so I can focus on what it is that's being said.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time I won't start looking around me at what's happening and not just start daydreaming and miss vital information because this could result in me missing something that I won’t be able to figure out and then at home I will be sitting there with no idea what to do.</td>
