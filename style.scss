@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
   color: $black;
   font-weight: bold;
   &:hover, &:active {
-	  color: $ocean;
+	  color: $white;
     
   }
 
@@ -93,7 +93,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $cocktail;
+    color: $white;
   }
 }
 
