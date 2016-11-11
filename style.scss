@@ -18,12 +18,12 @@ html {
 }
 
 body {
-	background-colour: $sand
+	background-colour: $sand;
   background-repeat: no-repeat;
   background-attachment: fixed;
 
   font: 18px/1.4 $helvetica;
-  color: $cocktail;
+  color: $white;
 }
 
 .container {
@@ -38,11 +38,11 @@ table, td {
     border: 2px solid black;
     border-collapse: collapse;
     padding: 15px;
-    background-color: $ocean;
+    background-color: $palm;
 }
 
 th {
-	background-color: $palm;
+	background-color: $cocktail;
 }
 	
 h1, h2, h3, h4, h5, h6 {
