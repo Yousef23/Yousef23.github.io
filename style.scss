@@ -176,7 +176,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $palm;
+  border-bottom: 1px solid $black;
 
   @include mobile {
     text-align: center;
@@ -212,7 +212,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $palm;
+  color: $black;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -222,7 +222,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $palm;
+  color: $black;
   font-size: 16px;
 
   @include mobile {
@@ -295,7 +295,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: $black;
 }
 
 footer {
