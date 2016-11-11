@@ -18,7 +18,7 @@ published: true
 
 <table>
   <tr>
-    <th>Starting point:</th>
+    <td>Starting point:</td>
     <td>A google sheets developing into a company and a blog page with 6 blogs on.</td>
   </tr>
   <tr>
