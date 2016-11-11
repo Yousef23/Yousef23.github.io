@@ -31,14 +31,14 @@ body {
   max-width: 720px;
   padding: 0 10px;
   width: 100%;
-	background-color: $palm;
+	background-color: $container;
 }
 
 table, td {
     border: 2px solid black;
     border-collapse: collapse;
     padding: 15px;
-    background-color: $ocean;
+    background-color: $palm;
 }
 
 th {
