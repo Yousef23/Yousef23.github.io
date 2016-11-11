@@ -31,8 +31,7 @@ body {
   max-width: 720px;
   padding: 0 10px;
   width: 100%;
-  
-  colour: $black;
+	background-color: $black;
 }
 
 table, td {
@@ -48,7 +47,7 @@ th {
 	
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $mylue;
+  color: $black;
   font-weight: bold;
   &:hover, &:active {
 	  color: $black;
