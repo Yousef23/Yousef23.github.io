@@ -23,7 +23,7 @@ body {
   background-attachment: fixed;
 
   font: 18px/1.4 $helvetica;
-  color: $sand;
+  color: $white;
 }
 
 .container {
@@ -48,10 +48,10 @@ th {
 	
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $white;
+  color: $sand;
   font-weight: bold;
   &:hover, &:active {
-	  color: $sand;
+	  color: $white;
     
   }
 
@@ -93,7 +93,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $sand;
+    color: $white;
   }
 }
 
