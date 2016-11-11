@@ -43,7 +43,7 @@ table, td {
 }
 
 th {
-	background-color: $cocktail;
+	background-color: $palm;
 }
 	
 h1, h2, h3, h4, h5, h6 {
@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
   color: $white;
   font-weight: bold;
   &:hover, &:active {
-	  color: $black;
+	  color: $white;
     
   }
 
@@ -212,7 +212,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $black;
+  color: $white;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -222,7 +222,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $black;
+  color: $white;
   font-size: 16px;
 
   @include mobile {
