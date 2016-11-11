@@ -18,7 +18,7 @@ published: true
 
 <table>
   <tr>
-    <th>Starting point:</th>
+    <td>Starting point:</td>
     <td>A google sheet created with prices of items but no vlookups.</td>
   </tr>
   <tr>
