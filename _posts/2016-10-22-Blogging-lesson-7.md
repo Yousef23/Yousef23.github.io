@@ -56,4 +56,4 @@ published: true
     <td>Next time I will, just like I did in this lesson, use my time effectively by really getting on with it. More specifically next time to improve my learning I can add formulas into my google sheets in less of a long winded ways using the if and elseif formulas available.</td>
   </tr>
 </table>
-<iframe src="https://docs.google.com/spreadsheets/d/1giO-RFRndXP3wyzhtTS-0rjMyQ2LVRcfMKhAdn-TeiM/pubhtml?widget=true&amp;headers=false" height="500" width="1000"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1giO-RFRndXP3wyzhtTS-0rjMyQ2LVRcfMKhAdn-TeiM/pubhtml?widget=true&amp;headers=false" height="300" width="500"></iframe>
