@@ -28,8 +28,8 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
-  padding: 100px;
+  max-width: 720px;
+  padding: 0 10px;
   width: 100%;
   
   colour: $black;
@@ -48,10 +48,10 @@ th {
 	
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $black;
+  color: $blue;
   font-weight: bold;
   &:hover, &:active {
-	  color: $cocktail;
+	  color: $black;
     
   }
 
