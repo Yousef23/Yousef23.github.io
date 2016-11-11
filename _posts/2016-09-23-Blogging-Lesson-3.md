@@ -18,7 +18,7 @@ published: true
 
 <table>
   <tr>
-    <th>Starting point:</th>
+    <td>Starting point:</td>
     <td>A designed blog with different colours, an avatar and two blogs.</td>
   </tr>
   <tr>
