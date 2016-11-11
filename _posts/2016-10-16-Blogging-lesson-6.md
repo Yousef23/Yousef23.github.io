@@ -18,7 +18,7 @@ published: true
 
 <table>
   <tr>
-    <th>Starting point:</th>
+    <td>Starting point:</td>
     <td>Google sheet with vlookup, countif and if formula.</td>
   </tr>
   <tr>
