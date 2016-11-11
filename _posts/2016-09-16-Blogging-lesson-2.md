@@ -18,7 +18,7 @@ published: true
 
 <table>
   <tr>
-    <th>Starting point:</th>
+    <td>Starting point:</td>
     <td>I've made a blog page, which contains my first blog.</td>
   </tr>
   <tr>
