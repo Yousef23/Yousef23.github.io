@@ -27,11 +27,11 @@ body {
 }
 
 .container {
-  margin: 0 auto;
+  margin: 5 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-	background-colour: rgba(0, 0, 0, 0.6);
+	background-colour: $ocean;
 }
 
 table, td {
