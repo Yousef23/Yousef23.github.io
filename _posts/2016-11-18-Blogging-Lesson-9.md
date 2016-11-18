@@ -38,19 +38,19 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I learnt how to change my blogs into images and fade in the writing. An effective strategy was to keep looking at websites on the internet and copying code into my index.html to do what I needed to do. I also finished a blog which I hadn't done in a previous week.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>What limited my learning was I thought I could simply copy code from websites onto my index.html but I soon found out this would not work and I need to change things and delete different parts where I was replacing things.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time I would broaden my knowledge even further and research and look at different websites  so I could find more parts of the html code to change and this would improve my learning as I would have more skills at coding on github.</td>
