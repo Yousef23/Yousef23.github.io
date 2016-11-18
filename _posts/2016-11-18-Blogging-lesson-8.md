@@ -38,20 +38,20 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I learnt marks are awarded against three criteria: Use of HTML/CSS/Technical, quality of 'reflection on learning' and 'presentation' , which includes how the blog looks as well as the quality of the writing. An effective strategy to judging the blogs was to look back at the success criteria and I can then think what mark should be awarded.
 </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>Both classes were in the IT lesson and it was quite hectic. While I was doing my best to concentrate it was hard because around me there was a lot of noise. I need to work on blocking this out and really reflect upon the success criteria now i Know it.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>The mark scheme being shown to me has enabled me to change my blog and try and get the maximum marks possible. I can do this by taking each section and then looking through that part of my blog and looking for and sort of improvements possible. Also, Mr Keen showed us an amazing blog from another class and that has shown me how much further you can go and now I am determined to do better.</td>
