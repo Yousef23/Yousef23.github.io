@@ -53,7 +53,7 @@ published: true
     <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
-    <th>Next time, I will slow down to ensure i don’t overcomplicate things I won’t click straight to the "commit changes" button without going over what it is I am really doing. </th>
+    <td>Next time, I will slow down to ensure i don’t overcomplicate things I won’t click straight to the "commit changes" button without going over what it is I am really doing. </td>
   </tr>
 </table>
 
