@@ -1,9 +1,9 @@
-, ---
-title: Blogging lesson1
+---
+title: Blogging lesson 1
 layout: post
 author: yousef.kaler
-permalink: /bogging-lesson1/
-source-id: 1zMSq5F_-FxJnJZ6mTNC4NDdswmUwVp4mo-aAHZZQQjc
+permalink: /blogging-lesson1/
+source-id: 1qFhqC_ho3fSMcFeu-KQ2qzQxmoUsaBRbt5g_sXAiGrE
 published: true
 ---
 <table>
