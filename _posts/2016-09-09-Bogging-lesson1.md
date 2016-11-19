@@ -1,4 +1,4 @@
----
+, ---
 title: Blogging lesson1
 layout: post
 author: yousef.kaler
@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td> Yes</td>
+    <td> Yes, I created my github Blog and even began styling it.</td>
   </tr>
 </table>
 
@@ -47,7 +47,7 @@ published: true
     <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
-    <td>Rushing limited my learning as I was so worried that i would forget it or mess up a step so  I tried doing each step too quickly which resulting in making mistakes. Also, I automatically turned to the teacher for help when all I had to do was put a few seconds thought into the problem and I would figure out a solution quite quickly.</td>
+    <td>Rushing limited my learning as I was so worried that I would forget it or mess up a step so  I tried doing each step too quickly which resulting in making mistakes. Also, I automatically turned to the teacher for help when all I had to do was put a few seconds thought into the problem and I would figure out a solution quite quickly.</td>
   </tr>
   <tr>
     <th>What will I change for next time? How will I improve my learning?</th>
