@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <td></td>
     <td>Extra Blog Time</td>
-    <td>Date</td>
+    <td></td>
     <td>18/11/16</td>
   </tr>
 </table>
