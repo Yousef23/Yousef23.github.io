@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <td></td>
     <td>Quizzes</td>
-    <td>Date</td>
+    <td></td>
     <td>01/01/01</td>
   </tr>
 </table>
@@ -38,19 +38,19 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>This lesson we were learning about how they make quizzes on websites. We did this by going onto buzzfeed and looking up different quizzes. In groups we discussed how we thought they made these and then shared our ideas with the class. Our idea was a sort of tree diagram concept ruling things out as we went, but we realised their are way too many combinations for this and the tree diagram would need to have thousands of results. Then we started making our own questions on google docs.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>When thinking of how they made these quizzes, I was not thinking about it in a logical way and we were so sure our tree diagram idea would work but when it was explained mathematically and we found the thousands of combinations, we realised the absurdness of the idea. I need to think for myself more and before saying a idea making sure there are no flaws in the plan.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next time when we start putting our quizzes into python I realise it will be a difficult task, but after I am taught the steps and functions I need to make, I should be able to put my mind to it and figure out how to make the quiz real and working in IT. My quiz will be  "What sport is best for you" and i can copy and paste my questions straight from google docs.</td>
