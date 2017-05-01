@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td></td>
-    <td>Blogging Lesson 13</td>
+    <td>Bubble Sorting</td>
     <td></td>
     <td>21/03/17</td>
   </tr>
