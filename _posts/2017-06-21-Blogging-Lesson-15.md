@@ -38,19 +38,19 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>I worked on my understanding of changing strings and inputs which was difficult because when I was trying to make a calculator that determines how old a pet was i had to make each animal assigned to a different calculation. Once I had one animal it was easy because I could just copy it down and just change the calculation.</td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>What limited my learning was I am not particularly good at inputs so when it came to the point where the user says how old their pet is I struggled to add this to my code and I could not change it to inputs. I also could have been more focused because then I would have finished it with no errors.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next lesson, we will be continuing to work on Repl and I will improve my working by working on the structure of my code instead of just plonking in code that might work. I will create my function and variables in the right format. I will also make sure I am fully concentrated to limit mistakes. Defining functions will mean that i will be able to give my variables definitions.</td>
