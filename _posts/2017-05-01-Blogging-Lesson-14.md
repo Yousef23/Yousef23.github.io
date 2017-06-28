@@ -61,6 +61,6 @@ published: true
 
 
 
-<iframe width="900" height="640" src="https://repl.it/HihO/17" frameborder="0" allowfullscreen></iframe>
+<iframe width="720" height="640" src="https://repl.it/HihO/17" frameborder="0" allowfullscreen></iframe>
 
 
