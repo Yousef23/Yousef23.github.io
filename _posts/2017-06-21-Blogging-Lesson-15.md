@@ -1,5 +1,5 @@
 ---
-title: Blogging Lesson 15
+title: Blogging Lesson 16
 layout: post
 author: yousef.kaler
 permalink: /blogging-lesson-15/
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>A fresh start to IT and ready to work on Repl.</td>
+    <td>After one lesson back and re-doing blog.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>Complete one of the Repl activities I chose.</td>
+    <td>Create a code in python that asks the user their name.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes, I made a calculator in pet years.</td>
+    <td>Yes, although it was just a starter so it is not finalised.</td>
   </tr>
 </table>
 
@@ -38,22 +38,25 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <th>How did I learn? What strategies were effective? </th>
+    <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>I worked on my understanding of changing strings and inputs which was difficult because when I was trying to make a calculator that determines how old a pet was i had to make each animal assigned to a different calculation. Once I had one animal it was easy because I could just copy it down and just change the calculation.</td>
+    <td>Today we were going to build a program in Python that asks the user to enter their first name and surname. Report back to the user information about the relative lengths of their names, try and personalise the answer. I think i completed this task effectively as i would follow  my target from last week which was to get better with code that refers to the user (my input…) parts.
+
+
+</td>
   </tr>
   <tr>
-    <th>What limited my learning? Which habits do I need to work on? </th>
+    <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>What limited my learning was I am not particularly good at inputs so when it came to the point where the user says how old their pet is I struggled to add this to my code and I could not change it to inputs. I also could have been more focused because then I would have finished it with no errors.</td>
+    <td>What limited my learning was i struggled to personalise it because I did not know how to correspond different lengths and letters to different paths down the code. I should work on my function and if, elif codes to improve this.</td>
   </tr>
   <tr>
-    <th>What will I change for next time? How will I improve my learning?</th>
+    <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Next lesson, we will be continuing to work on Repl and I will improve my working by working on the structure of my code instead of just plonking in code that might work. I will create my function and variables in the right format. I will also make sure I am fully concentrated to limit mistakes. Defining functions will mean that i will be able to give my variables definitions.</td>
+    <td>Next lesson I will go back to working on my blog for half the lesson and change the lookout of it. I will try and fix a problem that when i try and open one of the pictures it does not work. For the other half of the lesson I will go back to repl and complete the task set that week.</td>
   </tr>
 </table>
 
