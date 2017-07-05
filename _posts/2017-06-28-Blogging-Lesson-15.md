@@ -38,7 +38,7 @@ published: true
     <td>Lesson Review</td>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td> Learnt how to change all of my blogs to pictures by exploring the index.html part of the blog and I also created a calculator that determines how old your pet is in human years. Once i made the code for one animal and i could then just copy and paste through.
@@ -47,13 +47,13 @@ published: true
 </td>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
     <td>What limited my learning was i struggled to add inputs when the user has to say what pet they had because i couldn't figure out where i needed my functions. Also I kept trying to fix something on my blog but this was bad because I needed to focus on one thing.</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Next lesson i will work on whatever repl task there is and try and improve my skills in inputs and functions so I do not have long winded code but instead straightforward better working repl code. </td>
