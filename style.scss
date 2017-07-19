@@ -359,3 +359,49 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.dropbtn {  
+    background-color:#996633;
+    color: black;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 12px;
+    text-align: right;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;   
+    right: 0px;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 180px;
+    background-color: #f9f9f9;
+    list-style-type: none;
+    text-align: right;
+}
+
+
+.dropdown-content a {
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+    list-style-type: none;
+    text-align: right;
+}
+
+
+.dropdown-content a:hover {background-color:#CCCCFF;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
