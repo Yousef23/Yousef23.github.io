@@ -359,7 +359,6 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
 .dropbtn {  
     background-color:#996633;
     color: black;
@@ -405,3 +404,4 @@ footer {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
